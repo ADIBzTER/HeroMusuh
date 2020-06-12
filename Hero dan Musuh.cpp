@@ -77,17 +77,3 @@ int main()
 		cout << "Musuh menang\n";
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
